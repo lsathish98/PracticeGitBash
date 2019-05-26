@@ -6,6 +6,7 @@ public class Firstpgm {
 		
 		System.out.println("first push from masters");
 		System.out.println("second push from masters");
+		System.out.println("first push from branch1");
 	}
 
 }
